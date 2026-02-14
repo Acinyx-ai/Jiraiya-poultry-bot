@@ -1,0 +1,4 @@
+.env
+camp.db
+__pycache__/
+*.pyc
