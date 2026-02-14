@@ -1,7 +1,7 @@
-openai==0.28 
-flask 
-twilio 
-numpy 
-python-dotenv 
-requests 
-sqlite3 
+openai
+flask
+twilio
+numpy
+python-dotenv
+requests
+gunicorn
